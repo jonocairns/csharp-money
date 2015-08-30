@@ -1,8 +1,8 @@
 language: csharp
-solution: Money.sln
+solution: Money/Money.sln
 before_install:
   - sudo apt-get install nunit-console
 before_script:
-  - nuget restore Money.sln
+  - nuget restore Money/Money.sln
 after_script:
   - nunit-console Money.Test/bin/Release/Tests.dll
