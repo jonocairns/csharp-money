@@ -1,1 +1,3 @@
 # csharp-money
+
+[![Build Status](https://travis-ci.org/jonocairns/angular-client-cache.svg?branch=master)](https://travis-ci.org/jonocairns/csharp-money)
