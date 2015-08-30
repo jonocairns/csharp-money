@@ -1,0 +1,15 @@
+D:\DEV\csharp-utils\Money\Money.Test\obj\Debug\Money.Test.csprojResolveAssemblyReference.cache
+D:\DEV\csharp-utils\Money\Money.Test\bin\Debug\Money.Test.dll
+D:\DEV\csharp-utils\Money\Money.Test\bin\Debug\Money.Test.pdb
+D:\DEV\csharp-utils\Money\Money.Test\bin\Debug\FluentAssertions.Core.dll
+D:\DEV\csharp-utils\Money\Money.Test\bin\Debug\FluentAssertions.dll
+D:\DEV\csharp-utils\Money\Money.Test\bin\Debug\Money.dll
+D:\DEV\csharp-utils\Money\Money.Test\bin\Debug\nunit.framework.dll
+D:\DEV\csharp-utils\Money\Money.Test\bin\Debug\Money.pdb
+D:\DEV\csharp-utils\Money\Money.Test\bin\Debug\FluentAssertions.pdb
+D:\DEV\csharp-utils\Money\Money.Test\bin\Debug\FluentAssertions.xml
+D:\DEV\csharp-utils\Money\Money.Test\bin\Debug\FluentAssertions.Core.pdb
+D:\DEV\csharp-utils\Money\Money.Test\bin\Debug\FluentAssertions.Core.xml
+D:\DEV\csharp-utils\Money\Money.Test\bin\Debug\nunit.framework.xml
+D:\DEV\csharp-utils\Money\Money.Test\obj\Debug\Money.Test.dll
+D:\DEV\csharp-utils\Money\Money.Test\obj\Debug\Money.Test.pdb

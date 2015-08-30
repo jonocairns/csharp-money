@@ -1,0 +1,4 @@
+D:\DEV\csharp-utils\Money\Money\bin\Debug\Money.dll
+D:\DEV\csharp-utils\Money\Money\bin\Debug\Money.pdb
+D:\DEV\csharp-utils\Money\Money\obj\Debug\Money.dll
+D:\DEV\csharp-utils\Money\Money\obj\Debug\Money.pdb
